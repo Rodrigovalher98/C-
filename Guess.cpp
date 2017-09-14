@@ -3,8 +3,7 @@
 #include <cstdlib>
 
 using namespace std;
-int main ()
-{
+int main (){
 srand(time(NULL));
 int x,y;
 x = rand();
